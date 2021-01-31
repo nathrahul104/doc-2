@@ -5,3 +5,5 @@ for items in mlist:
         feq[items]=mlist.count(items)
 for key,values in feq.items():
     print(key," ",values)
+    
+xxxxxxxxx
